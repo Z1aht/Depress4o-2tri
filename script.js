@@ -12,4 +12,32 @@ const perguntas = [
       "alternativa 2",
   ]
 },
-  
+   {
+    enunciado: "Pergunta 2",
+    alternativas;[
+      "alternativa 1",
+      "alternativa 2",
+  ]
+},
+ {
+    enunciado: "Pergunta 3",
+    alternativas;[
+      "alternativa 1",
+      "alternativa 2",
+  ]
+},
+ {
+    enunciado: "Pergunta 4",
+    alternativas;[
+      "alternativa 1",
+      "alternativa 2",
+  ]
+},
+ {
+    enunciado: "Pergunta 5",
+    alternativas;[
+      "alternativa 1",
+      "alternativa 2",
+  ]
+},
+];
