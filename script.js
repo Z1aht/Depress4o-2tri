@@ -39,7 +39,7 @@ const perguntas = [
     afirmação: "afirmação",
   },
   {
-    texto: "luta contra o aperto e tenta se afastar 'o que carahos você quer comigo, me solta'",
+    texto: "luta contra o aperto e tenta se afastar 'o que caralhos você quer comigo, me solta'",
     afirmação: "afirmação",
   },
 ]
