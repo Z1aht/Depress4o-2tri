@@ -9,7 +9,7 @@ const perguntas = [
     enunciado: " Em uma noite fria você anda pelas nas da sua cidade pacata, a caminho de casa, quando no meio do caminho você percebe uma sombra lhe seguindo, você:",
     alternativas;[
     {
-      texto: " continua andando ignorando a sombra e tentando chegar en casa rapido",
+      texto: " continua andando ignorando a sombra e tentando chegar em casa rápido",
       afirmação: "afirmação",
     },
     {
